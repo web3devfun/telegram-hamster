@@ -1,0 +1,13 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+  aria-hidden="true"
+  focusable="false"
+  role="presentation"
+  viewBox="0 0 20 26"
+
+>
+  <g fill="#7c3aed">
+    <path
+      d="M13.46 7.02 l-2.44 5.22 l-1.28 2.78 l-2.66 5.72 l-6.38 -13.72 l2.68 0 l3.7 8.26 l1.38 -3.04 l1.28 -2.88 l1.06 -2.34 l2.66 0 z M9.74 9.36 l-1.04 -2.34 l-2.68 0 l2.44 5.22 l1.28 2.78 l2.66 5.72 l6.4 -13.72 l-2.68 0 l-3.72 8.26 l-1.38 -3.04 z" />
+  </g>
+</svg>
